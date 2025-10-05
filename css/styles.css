@@ -51,11 +51,11 @@ Medium: 11px
 
 .attribution {
   display: none;
-  font-size: 11px;
+  font-size: 1.1rem;
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: rgb(62, 82, 163);
 }
 
 * {
